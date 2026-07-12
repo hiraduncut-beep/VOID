@@ -38,9 +38,9 @@ const audio = document.getElementById("audio");
 const play = document.getElementById("play");
 
 const songs = [
-    "assets/music/song1.mp3",
-    "assets/music/song2.mp3",
-    "assets/music/song3.mp3"
+    "song1.mp3",
+    "song2.mp3",
+    "song3.mp3"
 ];
 
 let playing = false;
